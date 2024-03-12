@@ -1,0 +1,19 @@
+{
+	"folders": [
+		{
+			"path": "../../Documents/Larva"
+		},
+		{
+			"path": "../../Documents/Facebook"
+		},
+		{
+			"path": "../../Documents/HerryKing/play"
+		},
+		{
+			"path": "../../Documents/school website"
+		}
+	],
+	"settings": {
+		"liveServer.settings.multiRootWorkspaceName": "school website"
+	}
+}
